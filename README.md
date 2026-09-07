@@ -151,11 +151,3 @@ All the implemented search techniques were executed successfully. The practical 
 ## Conclusion
 
 This project demonstrates Uninformed Search, Informed Search, Local Search and Constraint Satisfaction techniques. It also shows that the selection of a search algorithm depends on the type of problem, search space, available information and required solution.
-
-## Author
-
-**Your Name**
-
-**Branch:** Software Engineering
-
-**Subject:** Artificial Intelligence and Machine Learning
